@@ -1,4 +1,4 @@
-#! /env/python
+#! /usr/bin/env python
 
 # Test file
 
