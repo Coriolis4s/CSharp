@@ -3,7 +3,8 @@
 # Test file
 
 def quentin(integer):
-	return integer=integer*integer
+	integer=integer*integer
+	return integer
 
 if __name__ == '__main__':
-  print "test passed"
+    print "test passed"
